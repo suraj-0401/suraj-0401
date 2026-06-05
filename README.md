@@ -93,19 +93,27 @@ Email       : shekharsuraj201@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suraj-0401&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-0401&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suraj-0401&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suraj-0401&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
-## 🔥 Streak Stats
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=suraj-0401&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suraj-0401&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Suraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suraj-0401&theme=tokyo-night)](https://github.com/suraj-0401)
 
 ## 🏅 Certifications
 
