@@ -89,25 +89,23 @@ Email       : shekharsuraj201@gmail.com
 - Developed complete **admin dashboards, vendor portals, and backend APIs**
 - Contributed across the full MERN stack in a fast-paced, production-focused team
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suraj-0401&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-0401&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suraj-0401&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-0401&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-0401&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=suraj-0401&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-0401&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 📈 Contribution Activity
+
+[![Suraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suraj-0401&theme=tokyo-night)](https://github.com/suraj-0401)
 
 ## 🏅 Certifications
 
