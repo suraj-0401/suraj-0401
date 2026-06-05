@@ -101,18 +101,6 @@ Email       : shekharsuraj201@gmail.com
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=suraj-0401&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -120,20 +108,6 @@ Email       : shekharsuraj201@gmail.com
 ![](https://github-readme-activity-graph.vercel.app/graph?username=suraj-0401&theme=tokyo-night&hide_border=true)
 
 </div>
-
----
-
-## 🧠 Currently Learning
-
-| Topic | Progress |
-|---|---|
-| 🏗️ Microservices Architecture | `████████░░` Advanced |
-| 📐 System Design | `███████░░░` Intermediate+ |
-| ☸️ Kubernetes | `████░░░░░░` Learning |
-| ☁️ Cloud Infrastructure (AWS) | `███████░░░` Intermediate+ |
-| 🤖 AI Integration in Apps | `██████░░░░` Intermediate |
-
----
 
 ## 🏅 Certifications
 
