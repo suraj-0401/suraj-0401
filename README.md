@@ -89,38 +89,6 @@ Email       : shekharsuraj201@gmail.com
 - Developed complete **admin dashboards, vendor portals, and backend APIs**
 - Contributed across the full MERN stack in a fast-paced, production-focused team
 
----
-
-## 🚀 Featured Projects
-
-### 🛍️ MyIndianWear — Multi-Vendor E-Commerce Platform
-> **Next.js · React · Node.js · Express · MongoDB · TailwindCSS**
-
-A production-grade multi-vendor marketplace with complete buyer, vendor, and admin flows.
-
-**Key Features:**
-- 🏪 Multi-vendor storefront with individual vendor dashboards
-- 🛒 Shopping cart, order tracking & inventory management
-- 💳 Secure payment integration
-- 📧 Automated email notification system
-- 🔐 Role-based authentication (User / Vendor / Admin)
-
----
-
-### 🍽️ Rubizz — Food, Hotel & Restaurant Management Platform
-> **React · Next.js · Node.js · MongoDB · Webhooks**
-
-An enterprise-grade hospitality management system with real-time analytics.
-
-**Key Features:**
-- 📊 Real-time dashboard with business analytics
-- 🏨 Multi-property management (Food, Hotel, Restaurants)
-- ⚡ Production-grade backend with optimized DB queries
-- 🔗 Webhook integrations for live event handling
-- ⚙️ Dynamic admin control panel
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
