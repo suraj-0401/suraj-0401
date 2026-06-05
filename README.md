@@ -91,17 +91,7 @@ Email       : shekharsuraj201@gmail.com
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suraj-0401&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-0401&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-0401&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=suraj-0401&show_icons=true&theme=tokyonight&cache_seconds=180"/>
 
 # 📈 Contribution Activity
 
