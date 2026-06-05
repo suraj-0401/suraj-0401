@@ -115,17 +115,6 @@ Email       : shekharsuraj201@gmail.com
 
 [![Suraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suraj-0401&theme=tokyo-night)](https://github.com/suraj-0401)
 
-## 🏅 Certifications
-
-| Certification | Issuer |
-|---|---|
-| ✅ AWS Cloud Practitioner | Amazon Web Services |
-| ✅ Java Programming | NPTEL |
-| ✅ Data Structures & Algorithms | Coding Blocks |
-| ✅ BEC (Business English Certificate) | Cambridge |
-
----
-
 ## ⚡ Fun Fact
 
 > *I don't just write code — I architect systems. From zero to production, I love taking a problem, breaking it down, and shipping something that actually scales.*
