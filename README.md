@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-> *Full Stack Developer with hands-on experience building production-grade MERN stack applications, microservices-based backends, and cloud-ready platforms. Currently working at a tech startup and actively seeking full-time opportunities in software engineering.*
+> *Software Developer with experience building production-grade applications, scalable backend systems, and cloud-ready platforms. Passionate about solving real-world problems through modern web technologies, microservices architecture, and high-performance software engineering.*
 
 ```yaml
 Name        : Suraj Kumar
