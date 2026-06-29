@@ -56,13 +56,25 @@ Software Developer with hands-on experience building production-grade applicatio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraj-0401&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-0401&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-0401&theme=github_dark" width="100%" alt="Profile Summary" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suraj-0401&theme=github_dark" height="160" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suraj-0401&theme=github_dark" height="160" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=suraj-0401&theme=github-dark&hide_border=true" height="150" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 <div align="center">
-<i>Open to Full Stack & Backend opportunities — let's build something great together.</i>
+<i>Open to Full Stack & Backend opportunities — let us build something great together.</i>
 </div>
