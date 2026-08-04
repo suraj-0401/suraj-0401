@@ -29,7 +29,7 @@ Software Developer with hands-on experience building production-grade applicatio
 
 **Frontend:** React.js · Next.js · Tailwind CSS · Redux
 
-**Backend:** Node.js · Express.js · REST APIs · Microservices
+**Backend:** FastAPI · Django · Node.js · Express.js · REST APIs · Microservices
 
 **Databases:** MongoDB · PostgreSQL · MySQL · Redis
 
